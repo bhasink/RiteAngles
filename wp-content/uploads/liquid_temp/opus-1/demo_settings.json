@@ -1,0 +1,19 @@
+{
+	"home_page_title": "Opus Homepage",
+	"blog_page_title": "Blog",
+	"sliders": {
+		"revslider": "opusslider.zip"
+	},
+	"menus": {
+		"primary": "Opus Primary"
+	},
+	"templates": {
+		"header-template": "Opus Header",
+		"footer-template": "Opus Main Footer"
+	},
+	"content_plugins": {
+		"revslider": "Slider Revolution",
+		"ave-core": "Ave Core",
+		"ave-portfolio": "Ave Portfolio"
+	}
+}
